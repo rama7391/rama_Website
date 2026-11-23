@@ -95,7 +95,7 @@ header{
     display: flex;
     width: 100%;
     height: auto;
-    padding-top: 8rem;
+    padding-top: 4rem;
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -106,7 +106,7 @@ header{
         background-image: url('file_00000000e5f48210bb40f3789ee43275.png');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: flex-end;
         justify-content: flex-start;
         flex-direction: column;
         align-items: flex-end;
@@ -300,4 +300,5 @@ header{
     }
 
 }
+
 
