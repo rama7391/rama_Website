@@ -103,7 +103,7 @@ header{
         width: calc(95% - .5rem);
         height: 95vh;
         display: flex;
-        background-image: url('../images/file_00000000e5f48210bb40f3789ee43275.png');
+        background-image: url('file_00000000e5f48210bb40f3789ee43275.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -207,7 +207,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    background-image: url("../images/file_00000000a4808243a902eb5cb8aa1720.png");
+    background-image: url("file_00000000a4808243a902eb5cb8aa1720.png");
     background-size: 650px 700px;
     background-position: right;
     background-repeat: no-repeat;
@@ -298,4 +298,5 @@ header{
         align-items: center;
         margin-top: 6rem;
     }
+
 }
