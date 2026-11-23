@@ -102,11 +102,12 @@ header{
     .card-home{
         width: calc(95% - .5rem);
         height: 95vh;
+        margin-top:6rem;
         display: flex;
         background-image: url('file_00000000e5f48210bb40f3789ee43275.png');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: flex-end;
+        background-position: center;
         justify-content: flex-start;
         flex-direction: column;
         align-items: flex-end;
@@ -300,5 +301,6 @@ header{
     }
 
 }
+
 
 
