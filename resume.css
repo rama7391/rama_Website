@@ -95,7 +95,7 @@ header{
     display: flex;
     width: 100%;
     height: auto;
-    padding-top: 4rem;
+    padding-top: 8rem;
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -300,3 +300,4 @@ header{
     }
 
 }
+
